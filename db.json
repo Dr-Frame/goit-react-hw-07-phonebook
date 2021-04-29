@@ -1,0 +1,19 @@
+{
+  "contacts": [
+    {
+      "id": "5fd3ee1f-2fdb-43a0-8814-51b1e27c6ddc",
+      "name": "vasya",
+      "number": "513153131513"
+    },
+    {
+      "id": "61470ec1-e7f2-40c1-9800-0bc69aae3cf4",
+      "name": "Петух",
+      "number": "656151135163"
+    },
+    {
+      "id": "36577aab-dbaf-4244-8def-9e6a1b5fbd3f",
+      "name": "Петро",
+      "number": "5131513513"
+    }
+  ]
+}
